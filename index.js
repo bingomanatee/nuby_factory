@@ -3,11 +3,11 @@ var util = require('util');
 var fs = require('fs');
 var path = require('path');
 var _ = require('underscore');
-var ejs = require('./../ejs');
-var NE = require('nuby-express');
+var ejs = require('ejs');
 var wrench = require('wrench');
-var proper_path = NE.deps.support.proper_path;
-var Gate = NE.deps.support.Gate;
+var support = require('support');
+var Gate = support.Gate;
+var proper_path = support.proper_path;
 var elements = require('./lib/elements');
 
 
