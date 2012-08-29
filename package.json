@@ -27,6 +27,14 @@
     "code",
     "generation"
   ],
-  "author": "Dave Edelhart",
-  "license": "BSD"
+  "author": {
+    "name": "Dave Edelhart"
+  },
+  "license": "BSD",
+  "_id": "nuby-factory@1.0.0",
+  "readme": "ERROR: No README.md file found!",
+  "dist": {
+    "shasum": "2199d2dd7c2e91c4c45647fdd880c7066a8d0485"
+  },
+  "_from": "nuby-factory"
 }
