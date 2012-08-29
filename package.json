@@ -1,6 +1,6 @@
 {
   "name": "nuby-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility for spawning functions or more advanced nuby-express packages.",
   "main": "index.js",
   "directories": {
